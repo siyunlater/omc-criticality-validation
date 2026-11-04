@@ -1,0 +1,15 @@
+# OpenMC outputs and generated inputs
+statepoint.*.h5
+summary.h5
+*.out
+run.log
+*.xml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Local scratch / experiments / system
+scratch/
+experiments/
+.DS_Store

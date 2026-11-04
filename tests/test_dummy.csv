@@ -1,0 +1,3 @@
+date,case,keff,sigma,benchmark_keff,benchmark_sigma,batches,inactive,particles,library
+2026-10-09,dummy A,0.99907,0.00046,1.00000,0.00020,200,10,10000,x
+2026-10-09,dummy B (bench sigma 없음),0.99907,0.00046,0.99900,,200,10,10000,x
